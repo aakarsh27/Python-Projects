@@ -5,9 +5,9 @@ so far i have made:-
 
 
 the projects yet to make are:
-Number guessing
-Dice rolling simulator
-Rock paper scissors
+1. Number guessing
+2. Dice rolling simulator
+3. Rock paper scissors
 Alarm Clock
 Algorithm
 Calculator
