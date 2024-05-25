@@ -4,7 +4,8 @@ Making this repository to link all the **python projecs** that are in my github 
 
 so far i have made:-
 1. [*password generator*](https://github.com/aakarsh27/password-generator)
-2. *tic-tac-toe*
+2. [*tic-tac-toe*]()
+3. [*text-to-speech*](https://github.com/aakarsh27/text-to-speech)
 
 the projects yet to make are:
 1. Number guessing
