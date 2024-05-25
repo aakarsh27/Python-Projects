@@ -8,7 +8,7 @@ so far i have made:-
 3. [*text-to-speech*](https://github.com/aakarsh27/text-to-speech)
 4. [*hangman-game*]()
 5. [*always-moving-mouse-pointer*]()
-6. [*ping-pong-game*]()
+6. [*ping-pong-game*](https://github.com/aakarsh27/ping-pong-game)
 
 the projects yet to make are:
 1. Number guessing
