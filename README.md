@@ -9,6 +9,7 @@ so far i have made:-
 4. [*hangman-game*](https://github.com/aakarsh27/hangman)
 5. [*always-moving-mouse-pointer*](https://github.com/aakarsh27/always-moving-mouse-pointer)
 6. [*ping-pong-game*](https://github.com/aakarsh27/ping-pong-game)
+7. [*dice-rolling-game*]()
 
 the projects yet to make are:
 1. Number guessing
