@@ -10,7 +10,7 @@ so far i have made:-
 5. [*always-moving-mouse-pointer*](https://github.com/aakarsh27/always-moving-mouse-pointer)
 6. [*ping-pong-game*](https://github.com/aakarsh27/ping-pong-game)
 7. [*dice-rolling-game*](https://github.com/aakarsh27/dice-roller)
-8. [*timer
+8. [*timer*]
 
 the projects yet to make are:
 1. Number guessing
