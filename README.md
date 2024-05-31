@@ -2,7 +2,7 @@
 
 Making this repository to link all the **python projecs** that are in my github profile.
 
-i will try to update this 
+i will try to update this repositry on 
 
 so far i have made:-
 1. [*password generator*](https://github.com/aakarsh27/password-generator)
