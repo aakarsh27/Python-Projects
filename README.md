@@ -1,8 +1,8 @@
 # Python-Projects
 
-Making this repository to link all the **python projecs** that are in my github profile
+I am making this repository to link all the **python projecs** in my github profile.
 
-i will try to update this repositry on a daily basis as well as create projects regularly
+i will try to update this repositry daily as well as create projects regularly
 
 so far i have made:-
 1. [*password generator*](https://github.com/aakarsh27/password-generator)
