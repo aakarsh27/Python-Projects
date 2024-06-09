@@ -12,13 +12,12 @@ so far i have made:-
 5. [*always-moving-mouse-pointer*](https://github.com/aakarsh27/always-moving-mouse-pointer)
 6. [*ping-pong-game*](https://github.com/aakarsh27/ping-pong-game)
 7. [*dice-rolling-game*](https://github.com/aakarsh27/dice-roller)
-8. [*timer*]()
+8. [*minesweeper-game*](https://github.com/aakarsh27/minesweeper)
 10. [*number-guessing*](https://github.com/aakarsh27/Guess-the-number)
 11. [*madlib*](https://github.com/aakarsh27/Madlib-Game)
 
 
 the projects yet to make are:
-2. Dice rolling simulator
 3. Rock paper scissors
 4. Alarm Clock
 5. Algorithm
