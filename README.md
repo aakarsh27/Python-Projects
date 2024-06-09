@@ -16,7 +16,6 @@ so far i have made:-
 10. [*number-guessing*](https://github.com/aakarsh27/Guess-the-number)
 
 the projects yet to make are:
-1. Number guessing
 2. Dice rolling simulator
 3. Rock paper scissors
 4. Alarm Clock
