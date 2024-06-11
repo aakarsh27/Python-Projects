@@ -18,8 +18,7 @@ so far i have made:-
 12. [*rock-paper-scissors*](https://github.com/aakarsh27/rock-paper-scissor)
 
 
-the projects yet to make are:
-3. Rock paper scissors
+the projects yet to make: 
 4. Alarm Clock
 5. Algorithm
 6. Calculator
