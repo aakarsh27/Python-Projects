@@ -15,6 +15,7 @@ so far i have made:-
 8. [*minesweeper-game*](https://github.com/aakarsh27/minesweeper)
 10. [*number-guessing*](https://github.com/aakarsh27/Guess-the-number)
 11. [*madlib*](https://github.com/aakarsh27/Madlib-Game)
+12. [*rock-paper-scissors*]
 
 
 the projects yet to make are:
