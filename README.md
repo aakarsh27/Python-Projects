@@ -16,7 +16,7 @@ so far i have made:-
 10. [*number-guessing*](https://github.com/aakarsh27/Guess-the-number)
 11. [*madlib*](https://github.com/aakarsh27/Madlib-Game)
 12. [*rock-paper-scissors*](https://github.com/aakarsh27/rock-paper-scissor)
-13. [*QR-code-generator*]()
+13. [*QR-code-generator*](https://github.com/aakarsh27/QR-Code-generator)
 
 
 the projects yet to make: 
