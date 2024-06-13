@@ -4,7 +4,7 @@ I am making this repository to link all the **python projecs** in my github prof
 
 i will try to update this repositry daily as well as create projects regularly
 
-so far i have made:-
+so far i have made the:-
 1. [*password generator*](https://github.com/aakarsh27/password-generator)
 2. [*tic-tac-toe*](https://github.com/aakarsh27/tic-tac-toe-game)
 3. [*text-to-speech*](https://github.com/aakarsh27/text-to-speech)
@@ -14,12 +14,12 @@ so far i have made:-
 7. [*dice-rolling-game*](https://github.com/aakarsh27/dice-roller)
 8. [*minesweeper-game*](https://github.com/aakarsh27/minesweeper)
 10. [*number-guessing*](https://github.com/aakarsh27/Guess-the-number)
-11. [*madlib*](https://github.com/aakarsh27/Madlib-Game)
+11. [*Madlib*](https://github.com/aakarsh27/Madlib-Game)
 12. [*rock-paper-scissors*](https://github.com/aakarsh27/rock-paper-scissor)
 13. [*QR-code-generator*](https://github.com/aakarsh27/QR-Code-generator)
 
 
-the projects yet to make: 
+the projects yet to be made: 
 4. Alarm Clock
 5. Algorithm
 6. Calculator
