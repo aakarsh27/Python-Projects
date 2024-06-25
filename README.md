@@ -2,7 +2,8 @@
 
 I am making this repository to link all the **python projects** in my github profile.
 
-i dont
+i dont know
+
 i will try to update this repository daily as well as create projects regularly
 
 so far i have made the:-
