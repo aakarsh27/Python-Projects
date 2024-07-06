@@ -14,7 +14,7 @@ so far i have made the:-
 7. [*dice-rolling-game*](https://github.com/aakarsh27/dice-roller)
 8. [*minesweeper-game*](https://github.com/aakarsh27/minesweeper)
 10. [*number-guessing*](https://github.com/aakarsh27/Guess-the-number)
-11. [*Madlib*](https://github.com/aakarsh27/Madlib-Game)
+11. [*Madlib Game*](https://github.com/aakarsh27/Madlib-Game)
 12. [*rock-paper-scissors*](https://github.com/aakarsh27/rock-paper-scissor)
 13. [*QR-code-generator*](https://github.com/aakarsh27/QR-Code-generator)
 
