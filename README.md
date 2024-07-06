@@ -18,7 +18,6 @@ so far i have made the:-
 12. [*rock-paper-scissors*](https://github.com/aakarsh27/rock-paper-scissor)
 13. [*QR-code-generator*](https://github.com/aakarsh27/QR-Code-generator)
 
-
 the projects yet to be made: 
 4. Alarm Clock
 5. Algorithm
