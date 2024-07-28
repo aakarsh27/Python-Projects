@@ -1,4 +1,4 @@
-# Python-Project
+# Python-Projects
 
 I am making this repository to link all the **python projects** in my github profile.
 
