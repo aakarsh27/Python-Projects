@@ -4,7 +4,7 @@ I am making this repository to link all the **python projects** in my github pro
 
 i will try to update this repository daily as well as create projects regularly
 
-so far i have made the following:-
+so far i have made the following:
 
 1. [*password generator*](https://github.com/aakarsh27/password-generator)
 2. [*tic-tac-toe*](https://github.com/aakarsh27/tic-tac-toe-game)
